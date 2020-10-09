@@ -1,0 +1,32 @@
+.footer {
+    width: 100%;
+    background-color: #fff;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    margin-top: 1.2rem;
+  }
+  .layout {
+    width: 7.1rem;
+    margin: auto;
+  }
+  .footer ul {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 0.1rem;
+  }
+  .footer ul li {
+    text-align: center;
+ font-size: .25rem;
+
+  }
+  .footer ul li a {
+    display: block;
+    margin-top: 0.1rem;
+   
+  }
+  .footer ul li img {
+    width: 0.58rem;
+    height: 0.58rem;
+  }
+  

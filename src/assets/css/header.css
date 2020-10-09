@@ -1,0 +1,42 @@
+.layout {
+  width: 7.1rem;
+  margin: auto;
+}
+.header {
+  width: 100%;
+  height: 0.7rem;
+  margin: 0;
+  overflow: hidden;
+  justify-content: space-between;
+}
+.header .head_in {
+  display: flex;
+  margin-top: 0.17rem;
+  justify-content: space-between;
+}
+.header .head_in h1 {
+  font-size: 0.35rem;
+  font-weight: normal;
+  color: #fff;
+}
+.header .head_in img:nth-child(1) {
+  width: 1.46rem;
+  height: 0.29rem;
+  margin-top: 0.05rem;
+}
+.header .head_in img:nth-child(3) {
+  width: 0.56rem;
+  height: 0.11rem;
+  margin-top: 0.15rem;
+}
+.header .head_in input {
+  width: 3rem;
+  height: 0.4rem;
+  background-color: #eeeeee;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.header .head_in input::placeholder {
+  text-align: center;
+  color: #c3c3c3;
+}

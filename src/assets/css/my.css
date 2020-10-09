@@ -1,0 +1,105 @@
+.layout {
+  width: 7.1rem;
+  margin: auto;
+}
+.content_btm {
+  width: 100%;
+  height: 1.2rem;
+}
+main {
+  background-color: #ccc;
+  margin: 0;
+}
+main .main_1 {
+  margin: 0;
+  background-color: #f26b11;
+}
+main .main_1 .main_1in {
+  display: flex;
+  justify-content: space-between;
+}
+main .main_1 .main_1in .main_1in_le {
+  width: 2.71rem;
+  height: 2.1rem;
+  display: flex;
+}
+main .main_1 .main_1in .main_1in_le img {
+  width: 1.54rem;
+  height: 1.54rem;
+  margin: auto 0;
+}
+main .main_1 .main_1in .main_1in_le .main_1in_le1 {
+  margin: auto 0.2rem;
+}
+main .main_1 .main_1in .main_1in_le .main_1in_le1 p {
+  font-size: 0.38rem;
+  color: #fff;
+}
+main .main_1 .main_1in .main_1in_le .main_1in_le1 a {
+  font-size: 0.38rem;
+}
+main .main_1 .main_1in .main_1in_ri {
+  height: 0.7rem;
+  width: 1.6rem;
+  text-align: center;
+  line-height: 0.7rem;
+  margin: auto 0;
+  border-radius: 0.04rem;
+  background-color: #fff;
+}
+main .main_1 .main_1in .main_1in_ri a {
+  color: #f26b11;
+}
+main .main_2 {
+  background-color: #fff;
+  height: 1.4rem;
+}
+main .main_2 .main_2in {
+  height: 1.4rem;
+  display: flex;
+  justify-content: space-between;
+}
+main .main_2 .main_2in .main_2in_1 {
+  margin: auto 0;
+  text-align: center;
+  font-size: 0.18rem;
+}
+main .main_2 .main_2in .main_2in_1 span {
+  display: block;
+  color: #858585;
+}
+main .main_3 {
+  height: 7rem;
+  margin: 0.2rem 0;
+  background-color: #fff;
+}
+main .main_3 .main_3in {
+  height: 0.7rem;
+}
+main .main_3 .main_3in .main_3in_1 {
+  height: 1.18rem;
+  border-bottom: solid 1px #ccc;
+  display: flex;
+  justify-content: space-between;
+}
+main .main_3 .main_3in .main_3in_1 .main_3in_1le {
+  margin: auto 0;
+}
+main .main_3 .main_3in .main_3in_1 .main_3in_1le img {
+  width: 0.5rem;
+  height: 0.35rem;
+}
+main .main_3 .main_3in .main_3in_1 .main_3in_1le a {
+  font-size: 0.3rem;
+}
+main .main_3 .main_3in .main_3in_1 .main_3in_1ri {
+  margin: auto 0;
+}
+main .main_3 .main_3in .main_3in_1 .main_3in_1ri span {
+  color: #e9701d;
+  font-size: 0.3rem;
+}
+main .main_3 .main_3in .main_3in_1 .main_3in_1ri img {
+  width: 0.25rem;
+  height: 0.33rem;
+}

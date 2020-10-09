@@ -1,0 +1,285 @@
+.layout {
+  width: 7.1rem;
+  margin: auto;
+}
+.content_btm {
+  width: 100%;
+  height: 1.2rem;
+}
+.header {
+  width: 100%;
+  height: 0.7rem;
+  margin: 0;
+  overflow: hidden;
+  justify-content: space-between;
+  background-color: #f26b11;
+}
+.header .head_in {
+  display: flex;
+  margin-top: 0.17rem;
+  justify-content: space-between;
+}
+.header .head_in h1 {
+  font-size: 0.35rem;
+  font-weight: normal;
+  color: #fff;
+}
+.header .head_in img:nth-child(1) {
+  width: 0.46rem;
+  height: 0.29rem;
+  margin-top: 0.05rem;
+}
+.header .head_in img:nth-child(3) {
+  width: 0.56rem;
+  height: 0.31rem;
+  margin-top: 0.1rem;
+}
+.banner {
+  width: 100%;
+}
+.banner img {
+  width: 100%;
+  height: 7.48rem;
+}
+.main {
+  background-color: #f0f0f0;
+}
+.main .main_1 {
+  height: 2.04rem;
+  background-color: #fff;
+}
+.main .main_1 .main_1in {
+  height: 2.04rem;
+  font-size: 0.34rem;
+}
+.main .main_1 .main_1in p {
+  line-height: 0.45rem;
+  margin: 0.15rem 0 0.3rem 0;
+}
+.main .main_1 .main_1in .main_1_s1 {
+  color: #e43a3a;
+}
+.main .main_1 .main_1in .main_1_s2 {
+  color: #ababab;
+  font-size: 0.28rem;
+}
+.main .main_2 {
+  height: 4rem;
+  margin: 0.2rem 0;
+  background-color: #fff;
+}
+.main .main_2 .main_2in {
+  height: 0.97rem;
+  font-size: 0.3rem;
+  border-bottom: solid 1px #f1f1f1;
+}
+.main .main_2 .main_2in .main_2in_1 {
+  height: 0.97rem;
+  display: flex;
+  justify-content: space-between;
+}
+.main .main_2 .main_2in .main_2in_1 .main_2in_1le {
+  margin: auto 0;
+}
+.main .main_2 .main_2in .main_2in_1 .main_2in_1le span:nth-child(2) {
+  color: #b02717;
+  border-radius: 0.1rem;
+  padding: 0.05rem;
+  border: 1px solid #b02717;
+  margin: auto 0.1rem;
+}
+.main .main_2 .main_2in .main_2in_1 .main_2in_1ri {
+  margin: auto 0;
+}
+.main .main_2 .main_2in .main_2in_1 .main_2in_1ri img {
+  width: 0.3rem;
+  height: 0.22rem;
+}
+.main .main_2 .main_2in2 {
+  height: 1.08rem;
+  border-bottom: solid 1px #f1f1f1;
+}
+.main .main_2 .main_2in2 .main_2in2_1 {
+  height: 1.08rem;
+  display: flex;
+  justify-content: space-between;
+}
+.main .main_2 .main_2in2 .main_2in2_1 .main_2in2_1_le {
+  margin: auto 0;
+}
+.main .main_2 .main_2in2 .main_2in2_1 .main_2in2_1_le p {
+  font-size: 0.28rem;
+  margin: auto 0;
+}
+.main .main_2 .main_2in2 .main_2in2_1 .main_2in2_1_ri {
+  margin: auto 0;
+  display: flex;
+  justify-content: space-between;
+}
+.main .main_2 .main_2in2 .main_2in2_1 .main_2in2_1_ri .main_2in2_1_ri_1 {
+  width: 0.66rem;
+  height: 0.6rem;
+  text-align: center;
+  line-height: 0.6rem;
+  border: 1px #505050 solid;
+}
+.main .main_2 .main_2in2 .main_2in2_1 .main_2in2_1_ri .main_2in2_1_ri_1 a {
+  font-size: 0.3rem;
+}
+.main .main_2 .main_2in3 {
+  height: 1.9rem;
+}
+.main .main_2 .main_2in3 .main_2in_3 {
+  height: 1.9rem;
+}
+.main .main_2 .main_2in3 .main_2in_3 .main_2in_3_t {
+  height: 0.93rem;
+  font-size: 0.3rem;
+  display: flex;
+  justify-content: space-between;
+}
+.main .main_2 .main_2in3 .main_2in_3 .main_2in_3_t .main_2in_3_tle {
+  margin: auto 0;
+}
+.main .main_2 .main_2in3 .main_2in_3 .main_2in_3_t .main_2in_3_tri {
+  margin: auto 0;
+}
+.main .main_2 .main_2in3 .main_2in_3 .main_2in_3_t .main_2in_3_tri img {
+  width: 0.3rem;
+  height: 0.22rem;
+}
+.main .main_2 .main_2in3 .main_2in_3 .main_2in_3_b {
+  height: 0.1rem;
+  font-size: 0.32rem;
+}
+.main .main_2 .main_2in3 .main_2in_3 .main_2in_3_b span:nth-child(1) {
+  color: #cbcbcb;
+}
+.main .main_2 .main_2in3 .main_2in_3 .main_2in_3_b span:nth-child(2) {
+  color: #fff;
+  padding: 0.05rem 0.3rem 0.05rem 0.3rem;
+  background-color: #e43a3a;
+  border-radius: 0.08rem;
+  margin-left: 0.6rem;
+}
+.main .main_2 .main_2in3 .main_2in_3 .main_2in_3_b span:nth-child(3) {
+  color: #fff;
+  padding: 0.05rem 0.2rem 0.05rem 0.2rem;
+  border-radius: 0.08rem;
+  margin-left: 0.1rem;
+  background-color: #e1e1e3;
+}
+.main .main_02 {
+  height: 1rem;
+  background-color: #fff;
+}
+.main .main_02 h3 {
+  font-size: 0.35rem;
+  line-height: 1rem;
+}
+.main .main_banner {
+  width: 100%;
+}
+.main .main_banner img {
+  width: 100%;
+  height: 23.77rem;
+}
+.main .main_3 {
+  background-color: #fff;
+  height: 5.64rem;
+  margin-top: 0.2rem;
+}
+.main .main_3 .main_3in {
+  height: 5.64rem;
+}
+.main .main_3 .main_3in .main_3ino {
+  height: 0.9rem;
+  border-bottom: #cbcbcb 1px solid;
+}
+.main .main_3 .main_3in .main_3ino h3 {
+  line-height: 0.9rem;
+  font-size: 0.38rem;
+}
+.main .main_3 .main_3in .main_3int {
+  height: 3.74rem;
+  font-size: 0.26rem;
+  border-bottom: #cbcbcb 1px solid;
+}
+.main .main_3 .main_3in .main_3int p {
+  line-height: 0.5rem;
+}
+.main .main_3 .main_3in .main_3int p:nth-child(4) {
+  color: #999999;
+}
+.main .main_3 .main_3in .main_3int img {
+  width: 5.07rem;
+  height: 1.53rem;
+  margin: 0.2rem 0;
+}
+.main .main_3 .main_3in .main_3inr {
+  height: 0.9rem;
+  display: flex;
+  color: #505050;
+  font-size: 0.24rem;
+  justify-content: space-between;
+}
+.main .main_3 .main_3in .main_3inr p {
+  margin: auto 0;
+}
+.main .main_3 .main_3in .main_3inr a {
+  display: block;
+  margin: auto 0;
+}
+.btm {
+  width: 100%;
+  height: 1.15rem;
+}
+.footer {
+  width: 100%;
+  height: 1.14rem;
+  position: fixed;
+  bottom: 0;
+  display: flex;
+  justify-content: space-between;
+  background-color: #fff;
+}
+.footer .footer_le {
+  width: 1.7rem;
+  height: 1.14rem;
+  background-color: #fff;
+  text-align: center;
+  font-size: 0.26rem;
+}
+.footer .footer_le img {
+  width: 0.65rem;
+  height: 0.65rem;
+}
+.footer .footer_le span {
+  display: block;
+  color: #ababab;
+}
+.footer .footer_le_rig {
+  display: flex;
+  justify-content: space-between;
+}
+.footer .footer_le_rig .footer_ce {
+  width: 2.88rem;
+  background-color: #f26b11;
+  font-size: 0.3rem;
+  line-height: 1.14rem;
+  text-align: center;
+}
+.footer .footer_le_rig .footer_ce a {
+  color: #fff;
+}
+.footer .footer_le_rig .footer_ri {
+  width: 2.86rem;
+  height: 1.14rem;
+  background-color: #e43a3d;
+  font-size: 0.3rem;
+  line-height: 1.14rem;
+  text-align: center;
+}
+.footer .footer_le_rig .footer_ri a {
+  color: #fff;
+}
